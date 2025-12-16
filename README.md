@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z390 Designare, Intel Core i9 9900K, AMD Radeon RX 6900 XT and AirDrop
 
+<img width="2116" height="1258" alt="Portfolio" src="https://github.com/user-attachments/assets/757224c8-c1dd-49cb-a2be-a68dc476bbf2" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.7.3)
